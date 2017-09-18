@@ -1,0 +1,12 @@
+logs
+*.log
+pids
+node_modules
+bower_components
+.DS_Store
+dist
+release
+test
+public
+/.idea
+/*.project
